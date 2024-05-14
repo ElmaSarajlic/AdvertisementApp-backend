@@ -2,7 +2,7 @@
 
 require __DIR__ . '/../../../vendor/autoload.php';
 
-define('BASE_URL', 'http://localhost/AdvertisementApp/AdvertisementApp-backend/');
+define('BASE_URL', 'http://localhost/AdvertisementApp/advertisementApp-backend/');
 
 // Turn off error reporting
 error_reporting(0);
